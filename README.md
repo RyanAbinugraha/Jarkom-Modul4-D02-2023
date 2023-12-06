@@ -9,3 +9,9 @@ CPT menggunakan CLASSLESS VLSM
 
 Topologi
 ![Foto](./img/TopologiVLSM.png)
+
+
+GNS3 menggunakan CLASSLESS CIDR
+
+TOPOLOGI
+![Foto](./img/TopologiCIDR.png)
