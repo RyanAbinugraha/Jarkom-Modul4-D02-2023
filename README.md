@@ -6,3 +6,6 @@ Ryan Abinugraha | 5025211178
 Abdurrohim Usaamah Khafizduddin | 5025201255
 
 CPT menggunakan CLASSLESS VLSM
+
+Topologi
+![Foto](./img/TopologiVLSM.png)
