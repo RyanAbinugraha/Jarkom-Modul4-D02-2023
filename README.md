@@ -14,6 +14,9 @@ Abdurrohim Usaamah Khafizduddin | 5025201255
 Topologi
 ![Foto](./img/TopologiVLSM.png)
 
+Tree
+![Foto](./img/TreeVLSM.png)
+
 
 # GNS3 menggunakan CLASSLESS CIDR
 
