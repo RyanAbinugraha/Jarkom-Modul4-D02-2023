@@ -7,9 +7,6 @@ Abdurrohim Usaamah Khafizduddin | 5025201255
 
 Route
 
-
-
-
 ![Foto](./img/Rute.png)
 
 CPT menggunakan CLASSLESS VLSM
