@@ -17,6 +17,9 @@ Topologi
 Tree
 ![Foto](./img/TreeVLSM.png)
 
+IP VLSM
+![Foto](./img/IPVLSM.png)
+
 
 # GNS3 menggunakan CLASSLESS CIDR
 
